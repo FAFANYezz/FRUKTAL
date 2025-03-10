@@ -228,7 +228,7 @@
         <h2>Галерея фракталов</h2>
         <div class="fractal-gallery">
             <div class="fractal-item">
-                <img src="https://images.unsplash.com/photo-1541746972996-4e0b0f4d34d0" alt="Романеско">
+                <img src="[https://images.unsplash.com/photo-1541746972996-4e0b0f4d34d0](https://i.pinimg.com/736x/73/57/cd/7357cd29abfbdd7e0eed13960d8bf359.jpg)" alt="Романеско">
                 <p>Романеско - природный фрактал</p>
             </div>
             <div class="fractal-item">
