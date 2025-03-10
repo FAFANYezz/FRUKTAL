@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -228,11 +229,11 @@
         <h2>Галерея фракталов</h2>
         <div class="fractal-gallery">
             <div class="fractal-item">
-                <img src="[https://images.unsplash.com/photo-1541746972996-4e0b0f4d34d0](https://i.pinimg.com/736x/73/57/cd/7357cd29abfbdd7e0eed13960d8bf359.jpg)" alt="Романеско">
+                <img src="https://images.unsplash.com/photo-1541746972996-4e0b0f4d34d0" alt="Романеско">
                 <p>Романеско - природный фрактал</p>
             </div>
             <div class="fractal-item">
-                <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/800px-Mandel_zoom_00_mandelbrot_set.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koch_curve.svg/1242px-Koch_curve.svg.png)" alt="Множество Мандельброта">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/800px-Mandel_zoom_00_mandelbrot_set.jpg" alt="Множество Мандельброта">
                 <p>Множество Мандельброта</p>
             </div>
             <div class="fractal-item">
