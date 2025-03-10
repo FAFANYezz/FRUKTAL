@@ -241,7 +241,7 @@
                 <p>Кривая Коха (7 итераций)</p>
             </div>
             <div class="fractal-item">
-                <img src="https://live.staticflickr.com/7090/7302882376_9d8f34d1c5_b.jpg" alt="Множество Жюлиа">
+                <img src="https://avatars.mds.yandex.net/i?id=52a82a8660a353d19881cf82898617e2_l-5235971-images-thumbs&n=13" alt="Множество Жюлиа">
                 <p>Множество Жюлиа</p>
             </div>
         </div>
