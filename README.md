@@ -229,7 +229,7 @@
         <h2>Галерея фракталов</h2>
         <div class="fractal-gallery">
             <div class="fractal-item">
-                <img src="https://images.unsplash.com/photo-1541746972996-4e0b0f4d34d0" alt="Романеско">
+                <img src="https://avatars.mds.yandex.net/i?id=d85772f75fbd4e7cc3bd7ac5b331360e_l-5233090-images-thumbs&n=13" alt="Романеско">
                 <p>Романеско - природный фрактал</p>
             </div>
             <div class="fractal-item">
@@ -237,7 +237,7 @@
                 <p>Множество Мандельброта</p>
             </div>
             <div class="fractal-item">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Koch_snowflake_7th_iteration.svg/1200px-Koch_snowflake_7th_iteration.svg.png" alt="Снежинка Коха">
+                <img src="https://avatars.mds.yandex.net/get-entity_search/478540/921673709/S600xU_2x" alt="Снежинка Коха">
                 <p>Кривая Коха (7 итераций)</p>
             </div>
             <div class="fractal-item">
