@@ -232,7 +232,7 @@
                 <p>Романеско - природный фрактал</p>
             </div>
             <div class="fractal-item">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/800px-Mandel_zoom_00_mandelbrot_set.jpg" alt="Множество Мандельброта">
+                <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/800px-Mandel_zoom_00_mandelbrot_set.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Koch_curve.svg/1242px-Koch_curve.svg.png)" alt="Множество Мандельброта">
                 <p>Множество Мандельброта</p>
             </div>
             <div class="fractal-item">
